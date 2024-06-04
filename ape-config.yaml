@@ -11,18 +11,6 @@ base:
   mainnet:
     default_provider: geth
 
-geth:
-  ethereum:
-    mainnet:
-      uri: https://eth-mainnet.g.alchemy.com/v2/1loqpGC15YMFUaT5kbzKGeBueJNNLjDS
-    sepolia:
-      uri: https://eth-sepolia.g.alchemy.com/v2/ihebUvz_ydH8e9mZjJk4UdKEilF0Ctb1
-  base:
-    mainnet:
-      uri: https://base-mainnet.g.alchemy.com/v2/7A02qy1i4fNQ7tZ1cEysh5jcM5qnV-AZ
-    sepolia:
-      uri: https://base-sepolia.g.alchemy.com/v2/azBL1BBQ1O7aTb_hqkqKZ7pPND3Ya1FK
-
 foundry:
   fork:
     ethereum:
